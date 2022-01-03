@@ -1,6 +1,7 @@
 ######################################################
 ### CONTEO DE PLANTAS CON EL PAQUETE "FIELDImageR"####
 ######################################################
+#no TePpuedo
 
 #VIDEO EN Youtube QUE EXPLICA EL FUNCIONAMIENTO: https://www.youtube.com/watch?v=v0gAq302Ueg
 # VIDEO COMPLETO EN Youtube: https://www.youtube.com/watch?v=DOD0ZX_J8tk
